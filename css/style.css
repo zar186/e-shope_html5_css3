@@ -17,7 +17,7 @@ body{
     
 }
 .header{
-    background: url('img/header.jpg');
+    background: url('../img/header.jpg');
     height: 800px;
     
 }
