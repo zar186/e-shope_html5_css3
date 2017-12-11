@@ -558,7 +558,7 @@ input[type="text"] {
     height: 46px;
 }
 .emailButton:after {
-    content: url(/img/email-icon.png);
+    content: url('img/email-icon.png');
     margin-left: -44px;
 }
 .bottom {
