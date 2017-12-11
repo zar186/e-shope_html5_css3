@@ -394,7 +394,7 @@ a.sliderButton{
     margin:  15px 0 0 15px;
 }
 .sliderDeals{
-    background: url('/img/slider-deals-1.jpg');
+    background: url('../img/slider-deals-1.jpg');
     height: 800px;
 }
 .exclusive-product{
