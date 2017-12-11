@@ -17,7 +17,7 @@ body{
     
 }
 .header{
-    background: url('/img/header.jpg');
+    background: url('img/header.jpg');
     height: 800px;
     
 }
@@ -120,7 +120,7 @@ a.sliderButton{
     margin: 32px 0 0 0;
 }
 .sliderButton:after {
-    content: url(/img/mini-arrow-1.png);
+    content: url(img/mini-arrow-1.png);
     margin-left: 12px;
 }
 .button{
@@ -213,7 +213,7 @@ a.sliderButton{
     text-transform: uppercase;
 }
 .itemButton:after{
-    content: url(/img/mini-arrow-1.png);
+    content: url(img/mini-arrow-1.png);
     margin-left: 12px;
 }
 .tadContent{
@@ -275,7 +275,7 @@ a.sliderButton{
    display: block;
 }
 .upButton:after{
-    content: url(/img/mini-arrow.png);
+    content: url(img/mini-arrow.png);
     margin: 12px 15px;
     display: inline-block;
 }
@@ -353,7 +353,7 @@ a.sliderButton{
     display: block;
 }
 .promoButton:after{
-    content: url(/img/mini-arrow-1.png);
+    content: url(img/mini-arrow-1.png);
     margin: 12px 15px;
     display: inline-block;
 }
@@ -454,7 +454,7 @@ a.sliderButton{
     margin: 15px 0px 15px 15px;
 }
 .mobApp{
-    background: url('/img/mob-app-img.jpg');
+    background: url('img/mob-app-img.jpg');
     height: 516px;
 }
 .mobile-text{
